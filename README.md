@@ -22,6 +22,9 @@ So, here are some details about the project -
 
 - The  DL model takes an image and then outputs another image but it contains segmentation between water and simply background/land.
 
+![Image](./images/image.png)
+![Image](./images/mask.png)
+
 
 # Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 - [FastAI](https://www.fast.ai/) - This is the library to build the DL Model ( Unet ) and training, inference.   
