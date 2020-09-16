@@ -32,6 +32,14 @@ So, here are some details about the project -
 
 And bunch of other libraries including os, time, numpy, cv2. 
 
+# Dataset
+
+The dataset is from [AIcrowd LNDST competition](https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3/problems/lndst) 
+
+![AIcrowd LNDST competition](./images/lndst.png) 
+
+The dataset contained 1399 training images with corresponding mask and 467 testing images. 
+
 # Getting Started
 
 Below are the steps to run the application in your PC or laptop, whatever. 
