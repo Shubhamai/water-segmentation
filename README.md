@@ -58,4 +58,4 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 Shubhamai - [@Shubhamai](https://twitter.com/Shubhamai) - shubham.aiengineer@gmail.com
 
-Website - [@Shubhamai.com](https://Shubhamai.com)
+Website - [Shubhamai.com](https://Shubhamai.com)
