@@ -58,4 +58,4 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 Shubhamai - [@Shubhamai](https://twitter.com/Shubhamai) - shubham.aiengineer@gmail.com
 
-Project Link: https://github.com/Shubhamai/mask-detector-app
+Website - [@Shubhamai.com](https://Shubhamai.com)
