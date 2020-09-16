@@ -27,7 +27,7 @@ So, here are some details about the project -
 
 ## Model
 
-I used Uent model which is quite good in image segmentation task, i used resnet34 deep for as a transfer learning in Unet, also the model is completely made using **fastaiv2** 
+I used Unet model which is quite good in image segmentation task, i used resnet34 deep for as a transfer learning in Unet, also the model is completely made using **fastaiv2** 
 
 
 # Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -43,6 +43,10 @@ The dataset is from [AIcrowd LNDST competition](https://www.aicrowd.com/challeng
 ![AIcrowd LNDST competition](./images/lndst.png) 
 
 The dataset contained 1399 training images with corresponding mask and 467 testing images. 
+
+# Weights & Biases Report
+
+The report for this project in Weights & Biases can be found [here](https://app.wandb.ai/shubhamai/water%20segmentation/reports/Water-Segmentation--VmlldzoyNDIzNjk)
 
 # Getting Started
 
