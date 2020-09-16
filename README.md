@@ -46,6 +46,8 @@ The dataset contained 1399 training images with corresponding mask and 467 testi
 
 # Weights & Biases Report
 
+![https://app.wandb.ai/shubhamai/water%20segmentation/reports/Water-Segmentation--VmlldzoyNDIzNjk](./images/wandb.png)
+
 The report for this project in Weights & Biases can be found [here](https://app.wandb.ai/shubhamai/water%20segmentation/reports/Water-Segmentation--VmlldzoyNDIzNjk)
 
 # Getting Started
