@@ -25,6 +25,10 @@ So, here are some details about the project -
 ![Image](./images/image.png)
 ![Image](./images/mask.png)
 
+## Model
+
+I used Uent model which is quite good in image segmentation task, i used resnet34 deep for as a transfer learning in Unet, also the model is completely made using **fastaiv2** 
+
 
 # Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 - [FastAI](https://www.fast.ai/) - This is the library to build the DL Model ( Unet ) and training, inference.   
